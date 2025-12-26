@@ -1,10 +1,11 @@
-const CACHE_NAME = "app-tarefas-v1";
+const CACHE_NAME = "app-v1";
+
 const urlsToCache = [
-  "/",
-  "/index.html",
-  "/style.css",
-  "/script.js",
-  "/manifest.json"
+  "./",
+  "./index.html",
+  "./style.css",
+  "./script.js",
+  "./manifest.json"
 ];
 
 self.addEventListener("install", function (event) {
