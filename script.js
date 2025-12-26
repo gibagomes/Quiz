@@ -1,3 +1,4 @@
+alert("JS carregou!");
 const perguntas = [
   {
     pergunta: "Qual linguagem é usada para estruturar páginas?",
