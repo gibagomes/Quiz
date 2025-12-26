@@ -1,4 +1,5 @@
 alert("JS carregou!");
+
 const perguntas = [
   {
     pergunta: "Qual linguagem é usada para estruturar páginas?",
@@ -69,5 +70,4 @@ function mostrarResultadoFinal() {
   opcoesEl.innerHTML = "";
   resultadoEl.textContent =
     "Você acertou " + pontuacao + " de " + perguntas.length + " perguntas.";
-}    "Você acertou " + pontuacao + " de " + perguntas.length + " perguntas.";
 }
