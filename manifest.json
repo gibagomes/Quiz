@@ -1,10 +1,11 @@
 {
-  "name": "Minha Lista de Tarefas",
-  "short_name": "Tarefas",
+  "name": "Quiz Interativo",
+  "short_name": "Quiz",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff6a00",
+  "description": "Aplicativo de quiz criado pelo celular",
   "icons": [
     {
       "src": "icon-192.png",
