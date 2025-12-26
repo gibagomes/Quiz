@@ -68,4 +68,5 @@ function mostrarResultadoFinal() {
   opcoesEl.innerHTML = "";
   resultadoEl.textContent =
     "Você acertou " + pontuacao + " de " + perguntas.length + " perguntas.";
+}    "Você acertou " + pontuacao + " de " + perguntas.length + " perguntas.";
 }
